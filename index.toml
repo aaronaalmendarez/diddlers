@@ -488,11 +488,6 @@ file = "mods/entityculling-forge-1.9.2-mc1.20.1.jar"
 hash = "4f2ecbb77d97d67b0fe64b31c7949369ede380f5726ec0546b1d34ba48895a16"
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "8795d85553d79829521a0efe340d71d0b6baa03fb6659bbd62961b93f336c868"
-metafile = true
-
-[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "0ba2a01934d2de588071ac5a5281dd9a29fc46166fe6b9f99a809a70fe1a6668"
 metafile = true
@@ -824,11 +819,6 @@ hash = "d754eab59d0f2c0268ebb006409286f8e7e4e132e6b8dffc217a82bcade633f7"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "c3801ef22e3efbe966908b6abab485f6646b36affb4f218b5a7e6b7b0abb91c7"
-metafile = true
-
-[[files]]
 file = "mods/notenoughanimations-forge-1.10.6-mc1.20.1.jar"
 hash = "6f9d7a22e49357183ea2125c83cd8eb87ce3033b8eaa307b0cd3dacbfb954b5a"
 
@@ -915,11 +905,6 @@ hash = "41e09a19122691426a4945a432e98257184ccc9cbecb0024c66647af3d95e0ad"
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "3f3297e9f92ea76f921b005048281b8de80d3ac1c92f705c7ba5491bfd0524f5"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "08df98fe6ca70335ac9d364232bbf4a2bfc8d331cf0fac805a09741b19e8756e"
 metafile = true
 
 [[files]]
